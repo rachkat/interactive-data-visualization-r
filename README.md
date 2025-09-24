@@ -101,6 +101,14 @@ This lab focused on verifying the core assumptions of linear regression (lineari
 
 ---
 
+## How to Reproduce
+- Open the R project in RStudio.  
+- Load the `mtcars` dataset.  
+- Use `ggplot2` for static plots and `plotly` for interactivity.  
+- Adjust histogram bin widths with the `binwidth` parameter.  
+
+---
+
 ## Part 3: Reflection on Linear Regression
 
 Linear regression is one of the most widely used and accessible tools in predictive analytics. Its **strength lies in simplicity**: it models the relationship between variables with a clear mathematical equation that can be easily explained and applied. Businesses, policymakers, and researchers value regression for its interpretability—decision-makers can directly see how changes in one factor (e.g., advertising budget, pricing, dosage of medication) affect an outcome (e.g., sales, customer demand, recovery rates).  
@@ -124,3 +132,12 @@ This project demonstrated the versatility of R for both interactive visualizatio
 - **Reflection**: I explored the broader significance of linear regression in predictive analytics, emphasizing both its strengths and its limitations.  
 
 The combination of **hands-on coding, interactive tools, and theoretical reflection** highlights how analytics is both a technical and interpretive discipline.  
+
+---
+
+## Skills Demonstrated
+- Interactive visualization in R using **ggplot2** and **plotly**  
+- Exploratory data analysis on multivariate datasets  
+- Evaluating regression models with **R²** and diagnostics  
+- Communicating insights through professional documentation  
+
