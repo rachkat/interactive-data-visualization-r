@@ -1,6 +1,6 @@
 # Interactive Data Visualization and Linear Regression in R
 
-This repository contains my work for **DAT 640 Practical R Activity Four: Interactive Data**. The project is divided into three parts:  
+The project is divided into three parts:  
 1. Creating interactive data visualizations with R.  
 2. Completing applied regression labs.  
 3. Reflecting on the benefits, applications, and assumptions of linear regression.  
